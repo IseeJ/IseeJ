@@ -2,10 +2,14 @@
 
 Art account: [@IzonFalzo](https://www.instagram.com/izonfalzo/)
 
-- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
+<!--- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
 - [Love Pawsona](https://iseej.github.io/LovePawsona/)
 
-![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=IseeJ&layout=donut&hide=Jupyter%20Notebook,%20GLSL)
+![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=IseeJ&layout=donut&hide=Jupyter%20Notebook,%20GLSL)-->
+
+
+
+
 
 <!--
 **IseeJ/IseeJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
