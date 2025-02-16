@@ -2,8 +2,6 @@
 
 Art account: [@IzonFalzo](https://www.instagram.com/izonfalzo/)
 
-!(https://github.com/IseeJ/Card/blob/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)
-
 [![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/)
 
 
