@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello!!!
+
+Art account: [@IzonFalzo](https://www.instagram.com/izonfalzo/)
+
+- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
+- [Love Pawsona](https://iseej.github.io/LovePawsona/)
+
+
 
 <!--
 **IseeJ/IseeJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
