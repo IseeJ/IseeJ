@@ -2,7 +2,10 @@
 
 Art account: [@IzonFalzo](https://www.instagram.com/izonfalzo/)
 
-![https://github.com/IseeJ/Card/blob/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG]
+!(https://github.com/IseeJ/Card/blob/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)
+
+[<img src="[path/to/image.png](https://github.com/IseeJ/Card/blob/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)">](https://iseej.github.io/Card/)
+
 <!--- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
 - [Love Pawsona](https://iseej.github.io/LovePawsona/)
 
