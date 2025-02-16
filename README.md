@@ -2,7 +2,7 @@
 
 Art account: [@IzonFalzo](https://www.instagram.com/izonfalzo/)
 
-[![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/){:height="200px" width="200px"}
+[![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/){:height="100px" width="100px"}
 
 
 <!--- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
