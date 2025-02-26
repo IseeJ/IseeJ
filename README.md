@@ -1,4 +1,4 @@
-## Hello there! :)
+## Hello 
 
 <!--[![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/)>
 
