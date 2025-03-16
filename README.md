@@ -3,7 +3,7 @@
 <!--[![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/)>
 
 
-
+![stattt](https://github-readme-stats.vercel.app/api?username=IseeJ&show_icons=true&theme=radical)
 
 <!--- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
 - [Love Pawsona](https://iseej.github.io/LovePawsona/)
