@@ -5,13 +5,13 @@
   <tr>
     <td align="center">
       <a href="https://iseej.github.io/CosmosPersona/">
-        <img src="IseeJ/CosmosPersona/9f72ce16d374174aeff7ea6f5f85d09fccdad649/images/main.gif" width="240" height="240" alt="Cosmos Persona"><br>
+        <img src="https://github.com/IseeJ/CosmosPersona/blob/9f72ce16d374174aeff7ea6f5f85d09fccdad649/images/main.gif" width="240" height="240" alt="Cosmos Persona"><br>
         <strong>Cosmos Persona</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://iseej.github.io/LovePawsona/">
-        <img src="https://raw.githubusercontent.com/IseeJ/LovePawsona/7388eda7dfbb1e3d681ab03ddf993d8296d140c9/IMG/front1.gif" width="240" height="240" alt="Love Pawsona"><br>
+        <img src="https://github.com/IseeJ/LovePawsona/blob/7388eda7dfbb1e3d681ab03ddf993d8296d140c9/IMG/front1.gif" width="240" height="240" alt="Love Pawsona"><br>
         <strong>Love Pawsona</strong>
       </a>
     </td>
