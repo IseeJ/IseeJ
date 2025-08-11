@@ -2,11 +2,10 @@
 
 
 
-| ![Alt A](https://via.placeholder.com/240) | ![Alt B](https://via.placeholder.com/240) |
+| ![Alt A](https://github.com/IseeJ/CosmosPersona/blob/9f72ce16d374174aeff7ea6f5f85d09fccdad649/images/main.gif) | ![Alt B](https://via.placeholder.com/240) |
 |---|---|
 | [**Caption A**](https://example.com/link-a) | [**Caption B**](https://example.com/link-b) |
-| ![Alt C](https://via.placeholder.com/240) | ![Alt D](https://via.placeholder.com/240) |
-| [**Caption C**](https://example.com/link-c) | [**Caption D**](https://example.com/link-d) |
+
 
 
 <!--[![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/)>
