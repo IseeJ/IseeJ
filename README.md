@@ -5,7 +5,7 @@
   <tr>
     <td align="center">
       <a href="https://iseej.github.io/CosmosPersona/">
-        <img src="https://raw.githubusercontent.com/IseeJ/CosmosPersona/9f72ce16d374174aeff7ea6f5f85d09fccdad649/images/main.gif" width="240" height="240" alt="Cosmos Persona"><br>
+        <img src="IseeJ/CosmosPersona/9f72ce16d374174aeff7ea6f5f85d09fccdad649/images/main.gif" width="240" height="240" alt="Cosmos Persona"><br>
         <strong>Cosmos Persona</strong>
       </a>
     </td>
