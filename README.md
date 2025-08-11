@@ -4,29 +4,15 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://example.com/link-a">
-        <img src="https://via.placeholder.com/600x400" width="240" height="240" alt="A"><br>
-        <strong>Caption A</strong>
+      <a href="https://iseej.github.io/CosmosPersona/">
+        <img src="https://github.com/IseeJ/CosmosPersona/blob/9f72ce16d374174aeff7ea6f5f85d09fccdad649/images/main.gif" width="240" height="240" alt="A"><br>
+        <strong>Cosmos Persona</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://example.com/link-b">
-        <img src="https://via.placeholder.com/800x600" width="240" height="240" alt="B"><br>
-        <strong>Caption B</strong>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://example.com/link-c">
-        <img src="https://via.placeholder.com/500x700" width="240" height="240" alt="C"><br>
-        <strong>Caption C</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://example.com/link-d">
-        <img src="https://via.placeholder.com/300x300" width="240" height="240" alt="D"><br>
-        <strong>Caption D</strong>
+      <a href="https://iseej.github.io/LovePawsona/">
+        <img src="https://github.com/IseeJ/LovePawsona/blob/7388eda7dfbb1e3d681ab03ddf993d8296d140c9/IMG/front1.gif" width="240" height="240" alt="B"><br>
+        <strong>Love Pawsona</strong>
       </a>
     </td>
   </tr>
