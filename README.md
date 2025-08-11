@@ -2,7 +2,7 @@
 
 
 
-| [![Cosmos Persona](https://github.com/IseeJ/CosmosPersona/blob/1741cf72049e020f5247f3c668773ca6a9160732/Resource/appCP.gif?raw=true)](https://iseej.github.io/CosmosPersona/) | [![Love Pawsona](https://github.com/IseeJ/LovePawsona/blob/7388eda7dfbb1e3d681ab03ddf993d8296d140c9/IMG/front1.gif?raw=true)](https://iseej.github.io/LovePawsona/) |
+| [![Cosmos Persona](https://github.com/IseeJ/CosmosPersona/blob/1741cf72049e020f5247f3c668773ca6a9160732/Resource/appCP.gif?raw=true)](https://iseej.github.io/CosmosPersona/) | [![Love Pawsona](https://github.com/IseeJ/CosmosPersona/blob/1741cf72049e020f5247f3c668773ca6a9160732/Resource/appCP.gif?raw=true)](https://iseej.github.io/LovePawsona/) |
 |---|---|
 | **[Cosmos Persona](https://iseej.github.io/CosmosPersona/)** | **[Love Pawsona](https://iseej.github.io/LovePawsona/)** |
 
