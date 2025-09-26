@@ -2,9 +2,12 @@
 
 ## I-see Warisa Jaidee
 
-| [![Cosmos Persona](https://github.com/IseeJ/stuffs/blob/27fce089286e8660053c360b5ed33241059df096/Cosmos.gif?raw=true)](https://iseej.github.io/CosmosPersona/) | [![Love Pawsona](https://github.com/IseeJ/stuffs/blob/27fce089286e8660053c360b5ed33241059df096/Cupid.gif?raw=true)](https://iseej.github.io/LovePawsona/) | [![tbc](https://github.com/IseeJ/stuffs/blob/ca5816760972fe9a0ef65bfa9390ddbf985a7266/TBC.gif?raw=true)](https://www.instagram.com/izonfalzo/) |
-|---|---|---|
-| **[Cosmos Persona](https://iseej.github.io/CosmosPersona/)** | **[Love Pawsona](https://iseej.github.io/LovePawsona/)** | **[Coming soon...](https://www.instagram.com/izonfalzo/)** |
+| [![Cosmos Persona](https://github.com/IseeJ/stuffs/blob/27fce089286e8660053c360b5ed33241059df096/Cosmos.gif?raw=true)](https://iseej.github.io/CosmosPersona/) 
+| [![Love Pawsona](https://github.com/IseeJ/stuffs/blob/27fce089286e8660053c360b5ed33241059df096/Cupid.gif?raw=true)](https://iseej.github.io/LovePawsona/) 
+| [![tbc](https://github.com/IseeJ/stuffs/blob/ca5816760972fe9a0ef65bfa9390ddbf985a7266/TBC.gif?raw=true)](https://www.instagram.com/izonfalzo/) 
+| [![tbc](https://github.com/IseeJ/stuffs/blob/ca5816760972fe9a0ef65bfa9390ddbf985a7266/TBC.gif?raw=true)](https://www.instagram.com/izonfalzo/) |
+|---|---|---|---|
+| **[Cosmos Persona](https://iseej.github.io/CosmosPersona/)** | **[Love Pawsona](https://iseej.github.io/LovePawsona/)** | **[Coming soon...](https://www.instagram.com/izonfalzo/)** | **[Coming soon...](https://www.instagram.com/izonfalzo/)** |
 
 
 
