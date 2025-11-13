@@ -9,7 +9,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=IseeJ/CosmosPersona,IseeJ/LovePawsona&type=date&legend=top-left)](https://www.star-history.com/#IseeJ/CosmosPersona&IseeJ/LovePawsona&type=date&legend=top-left)
 
-<!--[![Alt Text](https://raw.githubusercontent.com/IseeJ/Card/c329e8d9ba9a33b87d09ceee8bb03866b91cd3a8/C.PNG)](https://iseej.github.io/Card/)>
 
 
 
