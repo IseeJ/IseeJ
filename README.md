@@ -7,8 +7,8 @@
 | **[Cosmos Persona](https://iseej.github.io/CosmosPersona/)** | **[Love Pawsona](https://iseej.github.io/LovePawsona/)** | **[The Cat In You](https://thecatinyou.vercel.app/)** | **[Coming soon...](https://www.instagram.com/izonfalzo/)** |
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=IseeJ/CosmosPersona,IseeJ/LovePawsona&type=date&legend=top-left)](https://www.star-history.com/#IseeJ/CosmosPersona&IseeJ/LovePawsona&type=date&legend=top-left)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=IseeJ/CosmosPersona,IseeJ/LovePawsona&type=date&legend=top-left)](https://www.star-history.com/#IseeJ/CosmosPersona&IseeJ/LovePawsona&type=date&legend=top-left)
 
 <!--- [Cosmos Persona](https://iseej.github.io/CosmosPersona/)
 - [Love Pawsona](https://iseej.github.io/LovePawsona/)
