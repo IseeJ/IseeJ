@@ -6,6 +6,8 @@
 |---|---|---|---|
 | **[Cosmos Persona](https://iseej.github.io/CosmosPersona/)** | **[Love Pawsona](https://iseej.github.io/LovePawsona/)** | **[The Cat In You](https://thecatinyou.vercel.app/)** | **[Coming soon...](https://www.instagram.com/izonfalzo/)** |
 
+<img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100">
+<img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100">
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=IseeJ/CosmosPersona,IseeJ/LovePawsona&type=date&legend=top-left)](https://www.star-history.com/#IseeJ/CosmosPersona&IseeJ/LovePawsona&type=date&legend=top-left)
