@@ -2,12 +2,13 @@
 
 ## I-see Warisa Jaidee
 
+<img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100">
+Hi there!
+
 | [![Cosmos Persona](https://github.com/IseeJ/stuffs/blob/27fce089286e8660053c360b5ed33241059df096/Cosmos.gif?raw=true)](https://iseej.github.io/CosmosPersona/) | [![Love Pawsona](https://github.com/IseeJ/stuffs/blob/27fce089286e8660053c360b5ed33241059df096/Cupid.gif?raw=true)](https://iseej.github.io/LovePawsona/) | [![tbc](https://github.com/IseeJ/stuffs/blob/ca5816760972fe9a0ef65bfa9390ddbf985a7266/TBC.gif?raw=true)](https://thecatinyou.vercel.app/) | [![tbc](https://github.com/IseeJ/stuffs/blob/ca5816760972fe9a0ef65bfa9390ddbf985a7266/TBC.gif?raw=true)](https://www.instagram.com/izonfalzo/) |
 |---|---|---|---|
 | **[Cosmos Persona](https://iseej.github.io/CosmosPersona/)** | **[Love Pawsona](https://iseej.github.io/LovePawsona/)** | **[The Cat In You](https://thecatinyou.vercel.app/)** | **[Coming soon...](https://www.instagram.com/izonfalzo/)** |
 
-<img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100">
-<img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100"><img src="https://github.com/IseeJ/LovePawsona/blob/308991fbb02d7805c0909d145a139db1edc29837/IMG/Heh/Untitled_Artwork1654.gif" width="100">
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=IseeJ/CosmosPersona,IseeJ/LovePawsona&type=date&legend=top-left)](https://www.star-history.com/#IseeJ/CosmosPersona&IseeJ/LovePawsona&type=date&legend=top-left)
